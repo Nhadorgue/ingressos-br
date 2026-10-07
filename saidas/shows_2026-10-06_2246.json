@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-01 12:54",
-  "total": 89,
+  "gerado_em": "2026-10-06 22:46",
+  "total": 81,
   "shows": [
     {
       "artista": "Palavra Cantada",
@@ -28,7 +28,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/palavra-cantada-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Foo Fighters",
@@ -56,7 +56,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-foo-fighters-belo-horizonte",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Foo Fighters",
@@ -84,7 +84,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-foo-fighters-sao-paulo",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "BTS",
@@ -112,7 +112,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-bts-world-tour-arirang-28-10",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "BTS",
@@ -140,7 +140,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-bts-world-tour-arirang-30-10",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "BTS",
@@ -168,7 +168,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-bts-world-tour-arirang-31-10",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "ZAYN",
@@ -196,7 +196,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-zayn-the-konnakol-tour-sao-paulo",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Karol G",
@@ -224,7 +224,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-karol-g",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Fagner",
@@ -252,7 +252,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/fagner-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "New Order",
@@ -280,7 +280,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/new-order-data-extra",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "New Order",
@@ -308,7 +308,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/new-order",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "A Perfect Circle",
@@ -336,7 +336,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/vg-a-perfect-circle-puscifer",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "The Cat Empire",
@@ -364,7 +364,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/the-cat-empire-na-audio-sp",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "The Cat Empire",
@@ -392,7 +392,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/the-cat-empire-no-circo-voador-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Capital Inicial",
@@ -420,7 +420,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/capital-inicial-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Rodrigo Teaser",
@@ -448,35 +448,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/rodrigo-teaser-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Humberto Gessinger",
-      "data_show": "2026-11-10",
-      "cidade": null,
-      "uf": "SP",
-      "local": "The Cavern Club",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-01",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Capital Inicial",
@@ -504,7 +476,35 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/capital-inicial-brava-arena-jockey",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Humberto Gessinger",
+      "data_show": "2026-11-10",
+      "cidade": null,
+      "uf": "SP",
+      "local": "The Cavern Club",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-01",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Nando Reis",
@@ -532,35 +532,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/nando-reis-no-qualistage---rj",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Let's Groove",
-      "data_show": "2026-11-21",
-      "cidade": null,
-      "uf": "SP",
-      "local": "The Cavern Club",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-12",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/lets-groove-the-cavern-club",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Rodrigo Teaser",
@@ -588,7 +560,35 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/rodrigo-teaser-no-qualistage-dezembro-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Let's Groove",
+      "data_show": "2026-11-21",
+      "cidade": null,
+      "uf": "SP",
+      "local": "The Cavern Club",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-12",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/lets-groove-the-cavern-club",
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Roupa Nova",
@@ -616,7 +616,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/roupa-nova-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Pitty",
@@ -644,7 +644,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/pitty-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Freya Skye",
@@ -672,259 +672,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/vg-freya-skye",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "CPM22",
-      "data_show": "2026-10-16",
-      "cidade": null,
-      "uf": "PR",
-      "local": "Garden Eventos",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-04-16",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/cpm-22-dvl-rock-festival-pato-branco",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-10-17",
-      "cidade": null,
-      "uf": "MG",
-      "local": "Arena Hall BH",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-belo-horizonte",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "CPM22",
-      "data_show": "2026-10-17",
-      "cidade": null,
-      "uf": "PR",
-      "local": "Black Cap Eventos",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-04-16",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/cpm-22-dvl-rock-festival-cascavel",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-11-07",
-      "cidade": "Rio de Janeiro",
-      "uf": "RJ",
-      "local": "Qualistage",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-rio-de-janeiro",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-11-28",
-      "cidade": null,
-      "uf": "DF",
-      "local": "Centro de Convenções Ulysses Guimarães",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-brasilia",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-12-05",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Multiplan Hall Ribeirão Shopping",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-12-11",
-      "cidade": null,
-      "uf": "RS",
-      "local": "Auditório Araújo Vianna",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-porto-alegre",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-12-12",
-      "cidade": null,
-      "uf": "SC",
-      "local": "P12 (Parador 12)",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-florianopolis",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Lagum",
-      "data_show": "2026-12-13",
-      "cidade": null,
-      "uf": "PR",
-      "local": "Cine Lido",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-curitiba",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Sepultura",
@@ -952,7 +700,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/sepultura-sao-paulo",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Roberto Carlos",
@@ -980,7 +728,259 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/roberto-carlos-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "CPM22",
+      "data_show": "2026-10-16",
+      "cidade": null,
+      "uf": "PR",
+      "local": "Garden Eventos",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-04-16",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/cpm-22-dvl-rock-festival-pato-branco",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-10-17",
+      "cidade": null,
+      "uf": "MG",
+      "local": "Arena Hall BH",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-belo-horizonte",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "CPM22",
+      "data_show": "2026-10-17",
+      "cidade": null,
+      "uf": "PR",
+      "local": "Black Cap Eventos",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-04-16",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/cpm-22-dvl-rock-festival-cascavel",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-11-07",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "local": "Qualistage",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-rio-de-janeiro",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-11-28",
+      "cidade": null,
+      "uf": "DF",
+      "local": "Centro de Convenções Ulysses Guimarães",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-brasilia",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-12-05",
+      "cidade": null,
+      "uf": "SP",
+      "local": "Multiplan Hall Ribeirão Shopping",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-ribeirao-preto",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-12-11",
+      "cidade": null,
+      "uf": "RS",
+      "local": "Auditório Araújo Vianna",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-porto-alegre",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-12-12",
+      "cidade": null,
+      "uf": "SC",
+      "local": "P12 (Parador 12)",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-florianopolis",
+      "verificado_em": "2026-10-06 22:46"
+    },
+    {
+      "artista": "Lagum",
+      "data_show": "2026-12-13",
+      "cidade": null,
+      "uf": "PR",
+      "local": "Cine Lido",
+      "capacidade": null,
+      "tiqueteira": "Ticketmaster",
+      "abertura_vendas": "2026-08-10",
+      "pre_venda": null,
+      "preco_inteira_min": null,
+      "preco_inteira_max": null,
+      "preco_meia_min": null,
+      "preco_meia_max": null,
+      "setores": [],
+      "publico_ultimo_show_br": null,
+      "ingresso_nominal": null,
+      "validacao_facial": null,
+      "data_extra": null,
+      "status_vendas": "onsale",
+      "estimativas": [
+        "capacidade",
+        "ingresso_nominal",
+        "validacao_facial"
+      ],
+      "fonte": "https://www.ticketmaster.com.br/event/venda-geral-lagum-curitiba",
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Daniel Caesar",
@@ -1008,7 +1008,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/daniel-caesar",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Best Of Blues And Rock",
@@ -1036,7 +1036,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Best Of Blues And Rock",
@@ -1064,7 +1064,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Best Of Blues And Rock",
@@ -1092,7 +1092,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Maiara & Maraisa",
@@ -1120,7 +1120,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/maiara-e-maraisa-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Djavan",
@@ -1148,7 +1148,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/djavan-venda-geral-belem",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Djavan",
@@ -1176,7 +1176,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/djavan-venda-geral-recife",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Djavan",
@@ -1204,7 +1204,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/djavan-venda-geral-maceio",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Djavan",
@@ -1232,7 +1232,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-djavan-50-anos-so-sucessos-sao-paulo",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Djavan",
@@ -1260,119 +1260,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/pre-venda-bb-djavan-50-anos-so-sucessos-sao-paulo-13",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Chitãozinho e Xororó",
-      "data_show": "2026-10-03",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Suhai Music Hall",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-08-10",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/chitaozinho-e-xororo-suhai-music-hall",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Tributo a AC/DC",
-      "data_show": "2026-10-04",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Tokio Marine Hall",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-05-26",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/acdc-tributo-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Angra",
-      "data_show": "2026-10-02",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Tokio Marine Hall",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-05-26",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/angra-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Angra",
-      "data_show": "2026-10-03",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Tokio Marine Hall",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-05-26",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/angra-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Ana Carolina",
@@ -1400,7 +1288,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/ana-carolina-qualistage",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Ana Carolina",
@@ -1428,119 +1316,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/ana-carolina-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "João Bosco",
-      "data_show": "2026-10-02",
-      "cidade": "Rio de Janeiro",
-      "uf": "RJ",
-      "local": "Qualistage",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-06-01",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "offsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/joao-bosco-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Jorge Vercillo",
-      "data_show": "2026-10-03",
-      "cidade": null,
-      "uf": "SP",
-      "local": "Multiplan Hall Ribeirão Shopping",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-04-28",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/jorge-vercillo-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Joelma no Qualistage - RJ",
-      "data_show": "2026-10-03",
-      "cidade": "Rio de Janeiro",
-      "uf": "RJ",
-      "local": "Qualistage",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-06-08",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/joelma-no-qualistage-rj-2026",
-      "verificado_em": "2026-10-01 12:54"
-    },
-    {
-      "artista": "Guilherme Arantes | Maringá",
-      "data_show": "2026-10-03",
-      "cidade": null,
-      "uf": "PR",
-      "local": "Paraná Expo",
-      "capacidade": null,
-      "tiqueteira": "Ticketmaster",
-      "abertura_vendas": "2026-07-14",
-      "pre_venda": null,
-      "preco_inteira_min": null,
-      "preco_inteira_max": null,
-      "preco_meia_min": null,
-      "preco_meia_max": null,
-      "setores": [],
-      "publico_ultimo_show_br": null,
-      "ingresso_nominal": null,
-      "validacao_facial": null,
-      "data_extra": null,
-      "status_vendas": "onsale",
-      "estimativas": [
-        "capacidade",
-        "ingresso_nominal",
-        "validacao_facial"
-      ],
-      "fonte": "https://www.ticketmaster.com.br/event/guilherme-arantes-maringa",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "AC/DC UK",
@@ -1568,7 +1344,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/acdc-uk-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Maria Rita",
@@ -1596,7 +1372,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/maria-rita-rio-de-janeiro",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Jorge Vercillo",
@@ -1624,7 +1400,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/jorge-vercillo-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Kid Abelha - Curitiba",
@@ -1652,7 +1428,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-kid-abelha-curitiba",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Xande De Pilares",
@@ -1680,7 +1456,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/revelacao-xande-de-pilares-fortaleza",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Elymar Santos no Qualistage | RJ",
@@ -1708,7 +1484,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/elymar-santos-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "After Forever",
@@ -1736,7 +1512,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/after-forever-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Jorge Vercillo",
@@ -1764,7 +1540,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/jorge-vercillo-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Beto Guedes | The Cavern Club",
@@ -1792,7 +1568,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/beto-guedes-the-cavern-club",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Sidney Magal",
@@ -1820,7 +1596,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/sidney-magal-ribeirao-preto",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Kid Abelha - Florianópolis",
@@ -1848,7 +1624,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-kid-abelha-florianopolis",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Fabio Junior",
@@ -1876,7 +1652,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/fabio-jr-tokio-marine-hall-2026",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Oswaldo Montenegro",
@@ -1904,7 +1680,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/oswaldo-montenegro-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Elymar Santos",
@@ -1932,7 +1708,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/elymar-santos-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Victor & Leo",
@@ -1960,7 +1736,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/victor-e-leo-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Os Garotin",
@@ -1988,7 +1764,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/os-garotin-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Guilherme Arantes | Tokio Marine Hall",
@@ -2016,7 +1792,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/guilherme-arantes-tokio-marine-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Martinho da Vila",
@@ -2044,7 +1820,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/martinho-e-martnalia-brava-arena-jockey",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "CA7RIEL & Paco Amoroso",
@@ -2072,7 +1848,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Gilsons",
@@ -2100,7 +1876,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/gilsons-cine-lido",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "14 Bis",
@@ -2128,7 +1904,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/14-bis-the-cavern-club",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "CA7RIEL & Paco Amoroso",
@@ -2156,7 +1932,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-rio-de-janeiro",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "14 Bis",
@@ -2184,7 +1960,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/14-bis-e-beto-guedes",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Dino Fonseca | Qualistage",
@@ -2212,7 +1988,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/dino-fonseca-qualistage-2026",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Sandro Luiz",
@@ -2240,7 +2016,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/sandro-luiz-qualistage",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Gipsy Kings by Diego Baliardo",
@@ -2268,7 +2044,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/gipsy-kings-by-diego-baliardo-suhai-music-hall",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Gipsy Kings by Diego Baliardo",
@@ -2296,7 +2072,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/gipsy-kings-part-sidney-magal-qualistage",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Guilherme Arantes | Brava Arena Jockey",
@@ -2324,7 +2100,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/guilherme-arantes-brava-arena-jockey",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Geriatricus | Qualistage",
@@ -2352,7 +2128,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/geriatricus-qualistage",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Ferrugem",
@@ -2380,7 +2156,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/ferrugem-qualistage",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Maurício Manieri",
@@ -2408,7 +2184,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/mauricio-manieri-2026-no-qualistage-rj",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Lenine",
@@ -2436,7 +2212,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/lenine-brava-arena-jockey",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Maria Rita",
@@ -2464,7 +2240,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/maria-rita-porto-alegre",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     },
     {
       "artista": "Geraldo Azevedo",
@@ -2492,7 +2268,7 @@
         "validacao_facial"
       ],
       "fonte": "https://www.ticketmaster.com.br/event/geraldo-azevedo-e-elba-ramalho-brava-arena-jockey",
-      "verificado_em": "2026-10-01 12:54"
+      "verificado_em": "2026-10-06 22:46"
     }
   ]
 }
