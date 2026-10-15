@@ -1,5 +1,7 @@
-datetime
-Path
-pandas
-plotly
-streamlit
+pandas>=2.2
+plotly>=5.24
+streamlit>=1.59
+xarray>=2024.6.0
+requests>=2.31
+python-dotenv>=1.0
+openpyxl>=3.1

@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -21,6 +22,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+
+import coletor
 
 # ----------------------------------------------------------------------------
 # Configuração geral
@@ -149,15 +152,88 @@ def estilizar(fig: go.Figure, h: int = 340) -> go.Figure:
 
 
 # ----------------------------------------------------------------------------
-# Sidebar — seleção de arquivo + filtros
+# Coleta automática
 # ----------------------------------------------------------------------------
+FRESCOR_PADRAO_H = 12  # busca sozinho se o dado mais recente for mais velho que isto
+
+
+def _idade_horas(p: Path | None) -> float | None:
+    """Idade, em horas, do arquivo mais recente (pela data de modificação)."""
+    if p is None:
+        return None
+    return (time.time() - p.stat().st_mtime) / 3600
+
+
+def _coletar(mensagem: str) -> bool:
+    """Roda o coletor com spinner. Retorna True se gerou arquivo novo."""
+    try:
+        with st.spinner(mensagem):
+            caminho = coletor.coletar()
+        st.cache_data.clear()
+        st.session_state["_aviso_coleta"] = ("success", f"Dados atualizados: {caminho.name}")
+        return True
+    except coletor.ColetaError as e:
+        st.session_state["_aviso_coleta"] = ("error", str(e))
+    except Exception as e:  # falha de rede/API — não derruba o dashboard
+        st.session_state["_aviso_coleta"] = ("error", f"Falha ao atualizar: {e}")
+    return False
+
+
+# Threshold configurável (persistido na sessão; controle fica na sidebar).
+frescor_h = st.session_state.setdefault("frescor_horas", FRESCOR_PADRAO_H)
+
 arquivos = listar_arquivos()
+mais_recente = arquivos[0] if arquivos else None
+idade = _idade_horas(mais_recente)
+
+# Auto-coleta: uma vez por sessão, se não há dados ou se estão velhos.
+precisa_atualizar = (mais_recente is None) or (idade is not None and idade > frescor_h)
+if precisa_atualizar and not st.session_state.get("_auto_coleta_feita"):
+    st.session_state["_auto_coleta_feita"] = True
+    motivo = ("Nenhum dado encontrado"
+              if mais_recente is None else f"Dados com ~{idade:.0f} h")
+    if _coletar(f"{motivo} — buscando shows na Ticketmaster…"):
+        st.rerun()
+    arquivos = listar_arquivos()
+    mais_recente = arquivos[0] if arquivos else None
+    idade = _idade_horas(mais_recente)
+
+# ----------------------------------------------------------------------------
+# Sidebar — atualização, seleção de arquivo + filtros
+# ----------------------------------------------------------------------------
+with st.sidebar:
+    st.markdown("### 🎫 Ingressos BR")
+
+    if st.button("🔄 Atualizar agora", use_container_width=True,
+                 help="Busca os shows mais recentes na Ticketmaster agora."):
+        if _coletar("Buscando shows na Ticketmaster…"):
+            st.rerun()
+
+    aviso = st.session_state.pop("_aviso_coleta", None)
+    if aviso:
+        tipo, msg = aviso
+        (st.success if tipo == "success" else st.error)(msg)
+
+    if idade is not None:
+        st.caption(f"Último dado coletado há **{idade:.0f} h**.")
+
+    st.number_input(
+        "Atualizar sozinho se passar de (horas)",
+        min_value=1, max_value=168, step=1, key="frescor_horas",
+        help="Ao abrir o painel, se o dado mais recente for mais velho que isto, "
+             "ele é buscado automaticamente.",
+    )
+
+    st.divider()
+
 if not arquivos:
-    st.error(f"Nenhum arquivo `shows_*.json` encontrado em `{SAIDAS_DIR}`.")
+    st.error(
+        f"Nenhum arquivo `shows_*.json` em `{SAIDAS_DIR}` e não foi possível "
+        "coletar. Verifique a chave `TICKETMASTER_API_KEY` no arquivo `.env`."
+    )
     st.stop()
 
 with st.sidebar:
-    st.markdown("### 🎫 Ingressos BR")
     nomes = [p.name for p in arquivos]
     idx = st.selectbox(
         "Versão dos dados",
